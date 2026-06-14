@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Clean typographic header — no wave GIFs, no animated SVGs -->
 # Archisman Chakraborty
 
 **Building autonomous AI systems that ship as products, not demos.**<br>
@@ -9,6 +8,7 @@ Agentic workflows · Full-stack SaaS · Browser agents · ML infrastructure
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/archisman-chakraborty-722a38317)
 [![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/ArchismanC95469)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carchisman1@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zenith.oxo)
 
 </div>
 
@@ -18,20 +18,24 @@ Agentic workflows · Full-stack SaaS · Browser agents · ML infrastructure
 
 | Project | What it does | Stack | Status |
 |---------|-------------|-------|--------|
-| **[CureBird](https://github.com/AlgorithSage/curebird)** | B2C healthcare AI SaaS — 3-stage agentic OCR pipeline, Firebase RBAC | FastAPI · Gemini · Firebase | 400+ users |
-| **[Oryonix AI](https://github.com/AlgorithSage/oryonix)** | Open-source browser agent Chrome extension — ReAct loop, cloud+local LLM fallback | React 19 · WXT · Qwen 3.5 · Ollama | Active |
-| **[GigBounty](https://github.com/AlgorithSage/gigbounty)** | Decentralized gig marketplace on Algorand | Algorand · React · Smart Contracts | Active |
-<!-- | **[FIFA WC 2026](https://github.com/AlgorithSage/fifa-wc-2026)** | Fan/news site with dual-source data adapter layer | React · Vite · TypeScript · Tailwind | In progress | -->
+| **[CureBird](https://github.com/AlgorithSage/Curebird)** | B2C healthcare AI SaaS — 3-stage agentic OCR pipeline, Firebase RBAC | FastAPI · Gemini · Firebase | 400+ users |
+| **[Oryonix](https://github.com/AlgorithSage/Oryonix_for_desktop)** | AI-powered desktop/browser agent — ReAct planning loop, cloud+local LLM fallback | Python · Qwen · Ollama | Active |
+| **[AI Desktop Assistant](https://github.com/AlgorithSage/AI_Desktop_Assistant)** | Voice-controlled AI assistant — speech recognition, ChatGPT API, app launcher | Python · OpenAI · TTS | Released |
+| **[Pratibha-Kram](https://github.com/AlgorithSage/Pratibha-Kram-SIH)** | Sports talent marketplace — AI-verified stats, video reels, recruiter bidding | JavaScript · AI Verification | SIH Project |
+| **[Monastery360](https://github.com/AlgorithSage/Monastery360)** | Digital heritage explorer — immersive cultural heritage platform | JavaScript | Released |
 
-> Repo links above are placeholders — swap in your actual URLs.
+<!-- Uncomment when these repos go public:
+| **[GigBounty](https://github.com/AlgorithSage/gigbounty)** | Decentralized gig marketplace on Algorand with escrow smart contracts | Algorand · React | In progress |
+| **[FIFA WC 2026](https://github.com/AlgorithSage/fifa-wc-2026)** | Fan/news site with dual-source data adapter (openfootball + API-Football) | React · Vite · TypeScript | In progress |
+-->
 
 ---
 
 ### Core stack
 
 ```text
-Languages       Python · TypeScript · Java · C++
-AI/ML           LangChain · LangGraph · PyTorch · HuggingFace · OpenAI · SHAP
+Languages       Python · TypeScript · JavaScript · Java · C++
+AI/ML           LangChain · LangGraph · PyTorch · HuggingFace · OpenAI · Gemini · SHAP
 Frontend        React · Next.js · Tailwind CSS · Vite · WXT
 Backend         FastAPI · Flask · PostgreSQL · MongoDB · Firebase
 Infra           GCP · Vercel · Render · GitHub Actions · Nginx
