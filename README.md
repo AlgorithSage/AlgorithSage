@@ -1,147 +1,71 @@
-## 🚀 About Me
+<div align="center">
 
-I'm a Computer Science engineer passionate about building intelligent systems at the intersection of **Software Engineering, Generative AI, Agentic Workflows, and Scalable SaaS Platforms**.
+<!-- Clean typographic header — no wave GIFs, no animated SVGs -->
+# Archisman Chakraborty
 
-My goal is to design products that move beyond simple AI chat interfaces and evolve into autonomous systems capable of reasoning, planning, retrieving knowledge, and executing complex workflows.
+**Building autonomous AI systems that ship as products, not demos.**<br>
+Agentic workflows · Full-stack SaaS · Browser agents · ML infrastructure
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/archisman-chakraborty-722a38317)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/ArchismanC95469)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carchisman1@gmail.com)
 
-### 🔭 Current Focus
-
-- Building production-ready Full Stack SaaS applications
-- Agentic AI systems powered by LLMs
-- Multi-Agent Architectures using LangGraph
-- Retrieval-Augmented Generation (RAG)
-- AI-powered Automation & Browser Agents
-- System Design & Scalable Backend Architectures
-- Developer Tools and AI Infrastructure
+</div>
 
 ---
 
-### 🧠 AI & Machine Learning Interests
+### What I'm building
 
-- Generative AI
-- Agentic AI
-- Large Language Models (LLMs)
-- Vision Language Models (VLMs)
-- AI Agents & Autonomous Workflows
-- Multi-Agent Collaboration Systems
-- Retrieval-Augmented Generation (RAG)
-- AI Evaluation & Benchmarking
-- Explainable AI (XAI)
-- MLOps & AI Deployment
+| Project | What it does | Stack | Status |
+|---------|-------------|-------|--------|
+| **[CureBird](https://github.com/AlgorithSage/curebird)** | B2C healthcare AI SaaS — 3-stage agentic OCR pipeline, Firebase RBAC | FastAPI · Gemini · Firebase | 400+ users |
+| **[Oryonix AI](https://github.com/AlgorithSage/oryonix)** | Open-source browser agent Chrome extension — ReAct loop, cloud+local LLM fallback | React 19 · WXT · Qwen 3.5 · Ollama | Active |
+| **[GigBounty](https://github.com/AlgorithSage/gigbounty)** | Decentralized gig marketplace on Algorand | Algorand · React · Smart Contracts | Active |
+<!-- | **[FIFA WC 2026](https://github.com/AlgorithSage/fifa-wc-2026)** | Fan/news site with dual-source data adapter layer | React · Vite · TypeScript · Tailwind | In progress | -->
+
+> Repo links above are placeholders — swap in your actual URLs.
 
 ---
 
-# ⚙️ Tech Stack
+### Core stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
+```text
+Languages       Python · TypeScript · Java · C++
+AI/ML           LangChain · LangGraph · PyTorch · HuggingFace · OpenAI · SHAP
+Frontend        React · Next.js · Tailwind CSS · Vite · WXT
+Backend         FastAPI · Flask · PostgreSQL · MongoDB · Firebase
+Infra           GCP · Vercel · Render · GitHub Actions · Nginx
+```
 
 ---
 
-### ⚙️ Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+### Engineering focus areas
+
+- **Agentic AI** — multi-agent orchestration (LangGraph), ReAct planning loops, tool-use chains
+- **RAG & retrieval systems** — hybrid search, chunking strategies, evaluation pipelines
+- **Browser automation** — extension-native agents, page-agent SDK, vision grounding
+- **Explainable ML** — SHAP-based model interpretability for regulated domains (healthcare, pharma)
+- **System design** — event-driven backends, RBAC, scalable SaaS architecture
 
 ---
 
-### 🤖 AI / Machine Learning / GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+### Stats
 
-**Also working with:**
-- LangChain
-- LangGraph
-- OpenAI APIs
-- Hugging Face Transformers
-- RAG Systems
-- Agentic AI
-- Vision Language Models (VLMs)
-- OCR Pipelines (PyTesseract)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlgorithSage&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff" height="160" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=AlgorithSage&theme=github_dark_dimmed&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160" />
+
+</div>
 
 ---
 
-### 🗄️ Databases
-- PostgreSQL
-- MongoDB
-- SQL
+### Recent writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This section auto-updates via GitHub Actions — see .github/workflows/blog-post.yml -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-### ☁️ Cloud & Deployment
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 🔧 DevOps & Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-
----
-
-### 📱 Cross Platform Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
----
-
-### 🧠 Core Computer Science
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- OSI Model
-- DBMS
-- Object-Oriented Programming
-- System Design
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nJNgaAcq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zenith.oxo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/archisman-chakraborty-722a38317) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArchismanC95469) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Archisman-Chakraborty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carchisman1@gmail.com) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlgorithSage&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlgorithSage&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgorithSage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlgorithSage&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlgorithSage&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AlgorithSage&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/carchisman) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>B.Tech CSE @ IEM Kolkata · Project Head, IEM Research Foundation · AlgoZenith Studios</sub>
