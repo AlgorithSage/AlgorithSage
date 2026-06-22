@@ -12,23 +12,67 @@
 
 ---
 
+<div align="center">
+
 ## 💫 About Me
 
--> I'm Archisman Chakraborty, a Computer Science undergrad at IEM Kolkata and Project Head at IEM Research Foundation, where I lead a student research team called AlgoZeniths.
+<!-- ══════════════════════ CARD 1 — IDENTITY ══════════════════════ -->
+<table><tr><td align="center" width="700">
 
--> I'm currently building Oryonix, an open-source AI browser and desktop agent with a ReAct planning loop and cloud/local LLM fallback, and CureBird, a healthcare AI SaaS platform with a 3-stage agentic OCR pipeline serving 400+ users.
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%94%B9+WHO+I+AM+%E2%94%80%E2%94%80%E2%94%80" alt="WHO AM I"/></a>
 
--> I'm also working on JAK-Stockwise, a hybrid ML ensemble for drug stockout prediction under IEEE EMBS.
+<samp><b>Archisman Chakraborty</b> — CS undergrad @ IEM Kolkata<br>
+IEEE EMBS Pune Research Intern • Ex-Project Head Intern @ IEM Research Foundation, leading <b>AlgoZeniths</b> — a student research & dev team.</samp>
 
--> I'm looking to collaborate on open-source agentic AI systems, browser automation tooling, and RAG pipeline frameworks — especially anything involving multi-agent orchestration with LangGraph.
+</td></tr></table>
 
--> I'm currently deepening my understanding of SHAP-based explainability for regulated domains, enterprise system design patterns, and advanced retrieval strategies for RAG.
+<!-- ══════════════════════ CARD 2 — BUILDING ══════════════════════ -->
+<table><tr><td align="center" width="700">
 
--> I'm always happy to talk about agentic AI architectures, shipping AI products end-to-end, FastAPI backend design, or going from hackathon prototype to production.
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%94%B9+WHAT+I%27M+BUILDING+%E2%94%80%E2%94%80%E2%94%80" alt="WHAT I'M BUILDING"/></a>
 
--> Our team hit Google Solution Challenge 2026 Top 106 globally, and I genuinely believe the best AI products are the ones users forget are AI.
+<samp>🔧 <b>Oryonix</b> — Open-source AI browser & desktop agent [ ReAct loop ]<br>🏥 <b>CureBird</b> — Healthcare AI SaaS · 3-stage agentic OCR pipeline · 500+ users<br>💊 <b>ProgyNovaAI</b> — Disease aware pharmacy stock-out prediction and demand forecasting system · IEEE EMBS</samp>
 
----
+</td></tr></table>
+
+<!-- ══════════════════════ CARD 3 — COLLABORATE ══════════════════════ -->
+<table><tr><td align="center" width="700">
+
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%94%B9+LOOKING+TO+COLLABORATE+%E2%94%80%E2%94%80%E2%94%80" alt="LOOKING TO COLLABORATE"/></a>
+
+<samp> Full Stack AI SaaS Products · Enterprise Systems · Open-source agentic AI systems · Browser automation tooling<br>RAG pipeline frameworks · Multi-agent orchestration with <b>LangGraph</b></samp>
+
+</td></tr></table>
+
+<!-- ══════════════════════ CARD 4 — LEARNING ══════════════════════ -->
+<table><tr><td align="center" width="700">
+
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%94%B9+GOING+DEEPER+INTO+%E2%94%80%E2%94%80%E2%94%80" alt="GOING DEEPER INTO"/></a>
+<samp><br>Enterprise system design patterns · Advanced retrieval strategies for RAG · Langchain & Langraph · Agentic orchestration</samp>
+
+</td></tr></table>
+
+<!-- ══════════════════════ CARD 5 — TALK TO ME ══════════════════════ -->
+<table><tr><td align="center" width="700">
+
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%94%B9+TALK+TO+ME+ABOUT+%E2%94%80%E2%94%80%E2%94%80" alt="TALK TO ME ABOUT"/></a>
+
+<samp>Agentic AI architectures · Shipping AI products end-to-end<br>FastAPI backend design · Hackathon prototype → production</samp>
+
+</td></tr></table>
+
+<!-- ══════════════════════ CARD 6 — MILESTONES ══════════════════════ -->
+<table><tr><td align="center" width="700">
+
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%94%B9+SIGNAL+%E2%94%80%E2%94%80%E2%94%80" alt="MILESTONES"/></a>
+
+<samp>🏆 Google Solution Challenge 2026 — <b>Top 106 globally</b><br><i>The best AI products are the ones users forget are AI.</i></samp>
+
+</td></tr></table>
+
+<br>
+
+</div>
 
 ## 🚀 What I'm building rn
 
