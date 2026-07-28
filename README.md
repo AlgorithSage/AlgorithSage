@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8&height=180&section=header&text=Archisman%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20autonomous%20AI%20systems%20that%20ship%20as%20products,%20not%20demos&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8&height=180&section=header&text=Archisman%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Compiling%20Chaos%20Into%20Code&descAlignY=58&descSize=18" width="100%"/>
 
 **Agentic workflows · Full-stack SaaS · Browser agents · ML infrastructure**
 
