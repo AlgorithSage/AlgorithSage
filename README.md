@@ -7,11 +7,13 @@
 <br><br>
  
 <samp>
-I take ML research all the way to shipped product.<br>
-B.Tech CSE at IEM Kolkata. Project Head at IEM Research Foundation. I lead AlgoZeniths, a student research and dev team.
+I turn chaos into code.<br>
+Project Head @ IEM Research Foundation. Research Intern @ IEEE EMBS Pune. Lead @ AlgoZenith Studio, a student-led research and development team.<br>
+B.Tech CSE at IEM Kolkata, CGPA 9.05.
 </samp>
 </div>
 <br>
+
 
 **Agentic workflows · Full-stack SaaS · Browser agents · ML infrastructure**
 
