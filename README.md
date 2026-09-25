@@ -1,6 +1,17 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,8&height=180&section=header&text=Archisman%20Chakraborty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Compiling%20Chaos%20Into%20Code&descAlignY=58&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" width="100%" alt="Archisman Chakraborty (Zenith). ML researcher and full-stack developer, Project Head at IEM Research Foundation, lead of AlgoZeniths.">
+</picture>
+<br><br>
+ 
+<samp>
+I take ML research all the way to shipped product.<br>
+B.Tech CSE at IEM Kolkata. Project Head at IEM Research Foundation. I lead AlgoZeniths, a student research and dev team.
+</samp>
+</div>
+<br>
 
 **Agentic workflows · Full-stack SaaS · Browser agents · ML infrastructure**
 
