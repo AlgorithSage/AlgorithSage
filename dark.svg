@@ -45,7 +45,6 @@
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.250;1" dur="0.80s" fill="freeze"/><rect x="484" y="28" width="660" height="764" rx="16" fill="#0C0A09" fill-opacity=".6" stroke="#2A2118" stroke-opacity="1"/><rect x="485" y="29" width="658" height="255" rx="15" fill="url(#panelhi)"/></g>
 <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.333;1" dur="0.90s" fill="freeze"/>
 <text x="56" y="56" font-size="11.5" font-weight="700" fill="#FBBF24" letter-spacing="2.5">SYSTEM FACE CARD</text>
-<text x="448" y="56" font-size="11" fill="#57534E" text-anchor="end">zenith.ascii  96x56</text>
 <line x1="56" y1="68" x2="448" y2="68" stroke="#2A2118" stroke-opacity="1"/>
 </g>
 <g clip-path="url(#artclip)">
