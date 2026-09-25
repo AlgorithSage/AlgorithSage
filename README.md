@@ -14,7 +14,8 @@ B.Tech CSE at IEM Kolkata, CGPA 9.05.
 </div>
 <br>
 
-
+<div align="center">
+  
 **Agentic workflows · Full-stack SaaS · Browser agents · ML infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/archisman-chakraborty-722a38317)
