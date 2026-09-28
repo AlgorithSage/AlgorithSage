@@ -8,7 +8,7 @@
  
 <samp>
 I turn chaos into code.<br>
-Project Head @ IEM Research Foundation. Research Intern @ IEEE EMBS Pune. Lead @ AlgoZenith Studio, a student-led research and development team.<br>
+Ex - Project Head @ IEM Research Foundation. Ex - Research Intern @ IEEE EMBS Pune. Lead @ AlgoZenith Studio, a student-led research and development team.<br>
 B.Tech CSE at IEM Kolkata, CGPA 9.05.
 </samp>
 </div>
